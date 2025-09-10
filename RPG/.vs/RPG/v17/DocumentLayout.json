@@ -3,6 +3,98 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\inventory\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\inventory\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\utils\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\utils\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\utils\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\utils\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\game\\events\\shopevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\game\\events\\shopevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\game\\events\\treasureevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\game\\events\\treasureevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\game\\events\\battleevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\game\\events\\battleevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\game\\events\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\game\\events\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\game\\world\\castle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\game\\world\\castle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\game\\world\\forest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\game\\world\\forest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\game\\world\\village.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\game\\world\\village.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\game\\world\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\game\\world\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\combat\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\combat\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\combat\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\combat\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\items\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\items\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\items\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\items\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\items\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\items\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\monsters\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\monsters\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\monsters\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\monsters\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\monsters\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\monsters\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\characters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\characters\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\core\\characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\core\\characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|c:\\users\\pc\\desktop\\rpg\\rpg\\consol\u0443_rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C30E980A-EBC0-4148-ADF6-7BB66F191DA8}|consol\u0443_RPG\\consol\u0443_RPG.csproj|solutionrelative:consol\u0443_rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,6 +123,305 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Inventory\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Inventory\\InventorySlot.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Inventory\\InventorySlot.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Inventory\\InventorySlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:29:14.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Inventory\\Inventory.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Inventory\\Inventory.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Inventory\\Inventory.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Inventory\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:29:07.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Utils\\InputHelper.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Utils\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Utils\\InputHelper.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Utils\\InputHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:27:17.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Utils\\Dice.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Utils\\Dice.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Utils\\Dice.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Utils\\Dice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:27:11.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopEvent.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\Events\\ShopEvent.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Game\\Events\\ShopEvent.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\Events\\ShopEvent.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Game\\Events\\ShopEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:26:27.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreasureEvent.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\Events\\TreasureEvent.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Game\\Events\\TreasureEvent.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\Events\\TreasureEvent.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Game\\Events\\TreasureEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:26:19.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BattleEvent.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\Events\\BattleEvent.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Game\\Events\\BattleEvent.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\Events\\BattleEvent.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Game\\Events\\BattleEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:26:12.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\Events\\Event.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Game\\Events\\Event.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\Events\\Event.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Game\\Events\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:25:41.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Castle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\World\\Castle.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Game\\World\\Castle.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\World\\Castle.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Game\\World\\Castle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:25:33.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Forest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\World\\Forest.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Game\\World\\Forest.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\World\\Forest.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Game\\World\\Forest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:25:27.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Village.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\World\\Village.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Game\\World\\Village.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\World\\Village.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Game\\World\\Village.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:25:21.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\World\\Location.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Game\\World\\Location.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Game\\World\\Location.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Game\\World\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:25:13.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Turn.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Combat\\Turn.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Combat\\Turn.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Combat\\Turn.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Combat\\Turn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:25:03.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Combat\\Battle.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Combat\\Battle.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Combat\\Battle.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Combat\\Battle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:24:57.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Items\\Potion.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Items\\Potion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Items\\Potion.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Items\\Potion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:24:50.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Items\\Armor.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Items\\Armor.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Items\\Armor.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Items\\Armor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:24:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Items\\Weapon.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Items\\Weapon.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Items\\Weapon.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Items\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:24:34.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Items\\Item.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Items\\Item.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Items\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:24:28.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dragon.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Monsters\\Dragon.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Monsters\\Dragon.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Monsters\\Dragon.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Monsters\\Dragon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:23:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Orc.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Monsters\\Orc.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Monsters\\Orc.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Monsters\\Orc.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Monsters\\Orc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:23:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Monsters\\Goblin.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Monsters\\Goblin.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Monsters\\Goblin.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Monsters\\Goblin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:23:21.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Characters\\Hero.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Characters\\Hero.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Characters\\Hero.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Characters\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:23:10.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Characters\\Character.cs",
+              "RelativeDocumentMoniker": "consol\u0443_RPG\\Core\\Characters\\Character.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Core\\Characters\\Character.cs",
+              "RelativeToolTip": "consol\u0443_RPG\\Core\\Characters\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:22:53.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\RPG\\RPG\\consol\u0443_RPG\\Program.cs",
               "RelativeDocumentMoniker": "consol\u0443_RPG\\Program.cs",
